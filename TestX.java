@@ -44,6 +44,3 @@ public class TestX {
         //2瓶啤酒瓶子可以兑换1瓶，4个瓶盖可以兑换1瓶，5个酒瓶，可以喝15瓶。
     }
 }
-————————————————
-版权声明：本文为CSDN博主「Regino」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://qwert.blog.csdn.net/article/details/105664895
